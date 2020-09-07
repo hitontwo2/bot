@@ -1,0 +1,31 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-bot-api": "^0.0.8",
+    "cpu-stat": "^2.0.1",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.3.1",
+    "get": "^1.4.0",
+    "minecraft-server-util": "^1.4.3",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.0",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "request-promise-native": "^1.0.9",
+    "urban": "^0.3.2",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
